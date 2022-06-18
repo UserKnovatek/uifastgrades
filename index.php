@@ -1,5 +1,6 @@
 <?php include ('header.php') ?>
 <!-- START BANNER -->
+<h2>Learning</h2>
 <section class="slider_sec position-relative">
    <div id="carouselExampleControls" class="carousel slide carousel-fade" data-ride="carousel" data-interval="3000">
       <div class="carousel-inner">
